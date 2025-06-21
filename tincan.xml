@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ROCgdpjf" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Pelatihan CSA untuk Teman Tunanetra</name>
+      <description lang="en-US">Pada MPI ini, pengguna dapat mempelajari tentang Cyber Security yang sederhana dan mudah dipahami. MPI ini dirancang khusus pengguna tunanetra, dengan kategori Low Vision dan Totally Blind. </description>
+      <launch lang="en-US">tutorial.html</launch>
+    </activity>
+  </activities>
+</tincan>
